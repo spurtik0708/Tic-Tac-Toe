@@ -1,6 +1,9 @@
 # Tic-Tac-Toe
 This project is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It provides a fun way to play the game either against another player or against the computer.
 
+![image](https://github.com/spurtik0708/Tic-Tac-Toe/assets/118597103/a92ec0d8-6d2c-4341-9751-2fb34a5d3bc5)
+
+
 ### Features
 
 - **Responsive Design**: The game is designed to work seamlessly across different screen sizes, making it playable on both desktop and mobile devices.
